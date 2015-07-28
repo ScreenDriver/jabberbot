@@ -1,6 +1,7 @@
 import os
 import random
 
+
 def run_command(msg, *args):
     """Triggers encounter with a wild pokemon!"""
     dirpath = os.path.dirname(os.path.realpath(__file__))
