@@ -9,6 +9,7 @@ messages = [
     'Endlich hat {} den Raum verlassen',
     'Pfiat di {}',
     '{} ist gerade noch so einem Kick entkommen',
+    'Ciao {}'
 ]
 
 
